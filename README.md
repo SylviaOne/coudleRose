@@ -22,6 +22,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
 - 🎧 Audiophile.
+- 💤 Busy AF.
 - 🌱 I’m currently learning Android Development.
 - 🐾 I’m looking for help with Search Engine.
 - 🌐 Official Website : [Website](https://linktr.ee/min69u)
