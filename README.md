@@ -9,7 +9,7 @@
 ---
 <p align="center">
 <a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.twitter.com/min69u/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.twitter.com/Sylvia0ne"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:innerbeautykylla@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="mailto: innerbeautykylla@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
@@ -21,12 +21,11 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
-- 🎬 My Channel Youtube [Diversity Project](https://youtube.com/@diversityproject_id)
+- 🎧 Audiophile.
 - 🌱 I’m currently learning Android Development.
-- 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
-- 🌐 Website : [Awan Semesta](https://linktr.ee/min69u)
-- ☕ Coffe Addict 
+- 🌐 Official Website : [Website](https://linktr.ee/min69u)
+- ☕ Coffe Addict.
 ---
 <!-- Spotify Stuff -->
 
