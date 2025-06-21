@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
 
+![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
 <p align="center">
 <a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
@@ -71,13 +74,6 @@ You can use this api: https://github.com/anuraghazra/github[![spotify-github-pro
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
----
-![SylviaOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SylviaOne&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SylviaOne&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=highcontrast)
-
 
 ---
 <!-- This readme was created by Angga - https://github.com/AnggaR96s -->
