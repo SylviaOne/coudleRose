@@ -52,11 +52,6 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&redirect=true)-readme-stats
 -->
-<p>
-  <a href="https://github.com/SlyviaOne">
-    <img width="55%" align="right" alt="SylviaOne github stats" src="https://github-readme-stats.vercel.app/api?username=SylviaOne&show_icons=true&hide_border=true" />
-  </a>
-  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -76,6 +71,13 @@ You can use this api: https://github.com/anuraghazra/github[![spotify-github-pro
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
+---
+![SylviaOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SylviaOne&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SylviaOne&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=highcontrast)
+
 
 ---
 <!-- This readme was created by Angga - https://github.com/AnggaR96s -->
