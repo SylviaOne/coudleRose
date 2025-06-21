@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
 
-![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
+![Metrics](https://github.com/SylviaOne/metrics/blob/main/github-metrics.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
